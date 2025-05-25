@@ -1,8 +1,8 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
+  name: "LEE MIN HEE",
+  location: "GYEONGGI, Korea",
+  email: "baohaopoo@gmail.com",
+  github: "https://github.com/baohaopoo",
   linkedin: "https://www.linkedin.com/in/rishikeshs/",
 };
 
