@@ -49,6 +49,7 @@ export default function Footer() {
               }}
             >
               ❤️
+            Theme by <a href="https://github.com/rishikesh2003/my-portfolio" target="_blank" rel="noopener noreferrer" className="underline hover:text-purple-400">Rishikesh S.</a>
             </motion.span>
           </motion.p>
         </motion.div>
