@@ -1,4 +1,4 @@
-export const personalInfo = {
+ï»¿export const personalInfo = {
   name: "LEE MIN HEE",
   email: "baohaopoo@gmail.com",
   github: "https://github.com/baohaopoo",
@@ -7,28 +7,28 @@ export const personalInfo = {
 export const workExperience = [
   {
     company: "EvrStudio",
-    location: "¼­¿ï Æ¯º°½Ã °­³²±¸ ¾ğÁÖ·Î 315",
+    location: "ì„œìš¸ íŠ¹ë³„ì‹œ ê°•ë‚¨êµ¬ ì–¸ì£¼ë¡œ 315",
     position: "Game Client Programmer",
-    period: "2023.01.09 - ÇöÀç",
+    period: "2023.01.09 - í˜„ì¬",
     achievements: [
-        "ÇÁ·ÎÁ§Æ® TH ÆÀ¿¡¼­ °³¹ßÁßÀÔ´Ï´Ù."
+        "í”„ë¡œì íŠ¸ TH íŒ€ì—ì„œ ê°œë°œì¤‘ì…ë‹ˆë‹¤."
     ],
   },
   {
     company: "MakersGames",
-    location: "¼­¿ï °­³²±¸ ÇĞµ¿·Î 211 (³íÇöµ¿) »ïÇöºôµù 3Ãş ¸ŞÀÌÄ¿½º°ÔÀÓÁî(ÁÖ)",
-    position: "ÇöÀå½Ç½À»ı",
+    location: "ì„œìš¸ ê°•ë‚¨êµ¬ í•™ë™ë¡œ 211 (ë…¼í˜„ë™) ì‚¼í˜„ë¹Œë”© 3ì¸µ ë©”ì´ì»¤ìŠ¤ê²Œì„ì¦ˆ(ì£¼)",
+    position: "í˜„ì¥ì‹¤ìŠµìƒ",
     period: "2019.6.21 - 2019.08.21",
     achievements: [
-      "ÇöÀå½Ç½À»ı ½ÅºĞÀ¸·Î, 8ÁÖ°£ UIÇÁ¸®ÆÕ ¸®ÆÑÅä¸µ ¹× Á¦ÀÛ¿¡ Âü¿©ÇÏ¿´½À´Ï´Ù.",
+      "í˜„ì¥ì‹¤ìŠµìƒ ì‹ ë¶„ìœ¼ë¡œ, 8ì£¼ê°„ UIí”„ë¦¬íŒ¹ ë¦¬íŒ©í† ë§ ë° ì œì‘ì— ì°¸ì—¬í•˜ì˜€ìŠµë‹ˆë‹¤.",
     ],
   },
 ];
 
 export const education = [
   {
-    institution: "ÇÑ±¹»ê¾÷±â¼ú´ëÇĞ±³",
-    degree: "°ÔÀÓ°øÇĞºÎ ¿£ÅÍÅ×ÀÎ¸ÕÆ®ÄÄÇ»ÆÃÇĞ°ú ÇĞ»ç Á¹¾÷",
+    institution: "í•œêµ­ì‚°ì—…ê¸°ìˆ ëŒ€í•™êµ",
+    degree: "ê²Œì„ê³µí•™ë¶€ ì—”í„°í…Œì¸ë¨¼íŠ¸ì»´í“¨íŒ…í•™ê³¼ í•™ì‚¬ ì¡¸ì—…",
     period: "2016.03 - 2021.02",
   },
 ];
@@ -47,7 +47,7 @@ export const projects = [
     title: "B.B.B (Big Butt Bear",
     github: "https://github.com/baohaopoo/BBBproject",
     description: [
-    "À¯´ÏÆ¼·Î ¸¸µç Á¹¾÷ÀÛÇ° ÇÁ·ÎÁ§Æ®ÀÔ´Ï´Ù. Photon Cloud¸¦ ÀÌ¿ëÇÏ¿© ¼­¹ö ¿¬µ¿ÇÏ¿´½À´Ï´Ù.",
+    "ìœ ë‹ˆí‹°ë¡œ ë§Œë“  ì¡¸ì—…ì‘í’ˆ í”„ë¡œì íŠ¸ì…ë‹ˆë‹¤. Photon Cloudë¥¼ ì´ìš©í•˜ì—¬ ì„œë²„ ì—°ë™í•˜ì˜€ìŠµë‹ˆë‹¤.",
     ],
   },
 ];
