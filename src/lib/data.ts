@@ -52,3 +52,8 @@ export const projects = [
   },
 ];
 
+export const awards = [
+    {
+      
+    },
+];
