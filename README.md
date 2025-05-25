@@ -1,3 +1,8 @@
+This portfolio website is based on the "Modern Portfolio Template" by Rishikesh S.  
+Original source: https://github.com/https://github.com/rishikesh2003/my-portfolio.git
+
+Licensed under the MIT License.
+
 # Modern Portfolio Template
 
 A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
