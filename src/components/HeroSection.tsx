@@ -122,7 +122,8 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-            🚀 Unreal Engine 5.4 기반 AAA 콘솔게임 클라이언트 프로그래머로 EvrStudio의 TH팀에서, 완성도 높은 게임 경험을 만드는 데 집중하고 있습니다.
+              🚀 Unreal Engine 5.4 기반 AAA 콘솔게임 클라이언트 프로그래머로 EvrStudio의 TH팀에서,<br />
+                 완성도 높은 게임 경험을 만드는 데 집중하고 있습니다.
             </p>
           </div>
         </MotionWrapper>

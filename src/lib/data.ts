@@ -12,7 +12,6 @@ export const workExperience = [
     position: "Game Client Programmer",
     period: "2023.01.09 - 현재",
     achievements: [
-    "프로젝트 TH 팀에서 개발중입니다."
     ],
   },
 ];
